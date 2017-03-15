@@ -3,7 +3,6 @@ title: Permitting
 nav_title: Project Members
 layout: page
 sort: 1
-published: true
 ---
 
 ## Core Team
